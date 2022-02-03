@@ -1,0 +1,3 @@
+- I can **dance**
+- I can *sing*
+- I can `paint`
